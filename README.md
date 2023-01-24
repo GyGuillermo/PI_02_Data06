@@ -2,6 +2,7 @@
 Este proyecto tiene como objetivo utilizar un modelo de clasificación con aprendizaje supervisado y otro con aprendizaje no supervisado para predecir categoria de precios de las propiedades en venta. Se proporcionan dos archivos parquet: train.parquet y test.parquet para entrenar y testear los modelos.
 
 Categorías de precios
+
 Se consideran las siguientes categorías de precios:
 
 'low': para precios entre 0 y 999 dólares.
