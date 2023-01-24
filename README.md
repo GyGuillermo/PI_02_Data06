@@ -19,7 +19,7 @@ Modo de implementación
 
 Descargue el repositorio en su computadora.
 Asegúrese de tener las librerías necesarias para ejecutar el código.
-abra el archivo "datathon.ipynb" y siga las instrucciones en el notebook para ejecutar el código.
+abra el archivo "datathon.ipynb" y "datathon_NoSup.ipynb" y siga las instrucciones en el notebook para ejecutar el código.
 El código genera un archivo GyGuillermo.csv con las predicciones para ambos modelos.
 
 
